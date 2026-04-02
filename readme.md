@@ -19,3 +19,4 @@ Ajoutez quelques éléments dans les deux tables.
 Vous devriez aussi pouvoir accèder à la page de l'API (vide pour le moment)
 
 - /api
+v2
